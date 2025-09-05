@@ -105,7 +105,7 @@ justify-content: center;align-items: center;}
   .projects,
   .contact {
     position: relative;
-    width: 100vw; /* يملأ الشاشة بالكامل */
+    width: 1005%; /* يملأ الشاشة بالكامل */
     margin: 0;
     padding: 5px 10px; /* صغر البادنج */
     display: flex;
@@ -126,7 +126,7 @@ justify-content: center;align-items: center;}
     align-items: center;
     padding: 5px 10px;
     min-height: 50px;
-    width: 100vw;
+    width: 100%;
   }
 .conta{display: flex;gap: 45px;}
   /* اللينكات تبقى صف */
@@ -212,7 +212,7 @@ body{width: 26.5em;}
   .projects,
   .contact {
     position: relative;
-    width: 100vw; /* يملأ الشاشة بالكامل */
+    width: 100%; /* يملأ الشاشة بالكامل */
     margin: 0;
     padding: 5px 10px; /* صغر البادنج */
     display: flex;
@@ -233,7 +233,7 @@ body{width: 26.5em;}
     align-items: center;
     padding: 5px 10px;
     min-height: 50px;
-    width: 100vw;
+    width: 100%;
   }
 .conta{display: flex;font-size: 0.6em;}
   /* اللينكات تبقى صف */
@@ -299,5 +299,6 @@ body{width: 26.5em;}
   }
 
 }
+
 
 
