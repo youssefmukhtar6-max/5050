@@ -105,7 +105,7 @@ justify-content: center;align-items: center;}
   .projects,
   .contact {
     position: relative;
-    width: 100%; /* يملأ الشاشة بالكامل */
+    width: 100vw; /* يملأ الشاشة بالكامل */
     margin: 0;
     padding: 5px 10px; /* صغر البادنج */
     display: flex;
@@ -212,7 +212,7 @@ body{width: 26.5em;}
   .projects,
   .contact {
     position: relative;
-    width: 100%; /* يملأ الشاشة بالكامل */
+    width: 100vw; /* يملأ الشاشة بالكامل */
     margin: 0;
     padding: 5px 10px; /* صغر البادنج */
     display: flex;
@@ -299,4 +299,5 @@ body{width: 26.5em;}
   }
 
 }
+
 
